@@ -5,7 +5,7 @@
 I would like to open a Surf & Ice Cream shop on a beach in Oahu; however, the weather can play a big role in the success of the business. W. Avy, a potential investor, is interested in the temperature data for the months of December and June. We had previously analyzed precipiation levels across a year long period and W. Avy was impressed with the results. Now, we want to impress him again with descriptive statistics on temperature data to show that the business is sustainable year-round. Results and conclusions are outlined below.
 
 ## Resources
-            Data Sources: city_ride.csv & ride_data.csv
+            Data Sources: climate_analysis.ipynb, hawaii.sqlite
             
             Software: Python 3.9.7, SQLite, & Jupyter Notebook
 ## Results
