@@ -21,7 +21,7 @@ Based on these results, we can conclude three major points:
 * As expected, June was warmer than December. However, the average temperature difference between the two months was less than 4 degrees; a very consistent temperature in the low 70s - perfect for ice cream eating.
 * The max temperature for June and December is 85 and 83 degrees, respectively. Although one might think heat may bring in more customers, if it's too hot people may stay away from the hot sands of the beach. Therefore, max temperatures around the low 80s are consistent and sound like perfect ice cream eating temperatures. 
 * June and December both show similar temperature trends. One month that starts the summer and other in the middle of winter; they both represent high months for the rest of the year. Additionally, both months are important tourist, beach, and surf seasons that the shop will want to be in business to serve. The consistency across months, will help provide for more consistent customers. 
-
+ 
 ## Summary
 It is important to note that temperature data includes minimum temperatures which likely fall at night when the store is closed and no one is surfing. Therefore, the average temperature is impacted by times that the business may not be as interested in. However, we still find that the consistent temperatures between the two months are impactful findings for W. Avy and his board as they make their final decision. Average temperatures in the low to mid 70s and max temperatures in the low 80s are ideal for the shop.
 
